@@ -1,6 +1,6 @@
 package com.rony.AuthService_JWT.dto;
 
 public record LoginRequestDTO(
-    String username,
+    String email,
     String password
 ){ }
