@@ -19,7 +19,6 @@ public class Roles {
 
     private String description;
 
-
     public Roles(long id, String name) {
         this.id = id;
         this.description = name;
